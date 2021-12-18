@@ -1,3 +1,45 @@
 body {
     background-image: url("../images/NorrisRelax.jpg");
+    color: White;
 }
+h2 {
+    color: rgb(226, 131, 43);
+    font-family: cursive
+}
+h3 {
+    color: white;
+    font-family: monospace;
+    font-size: 25pt;
+}
+h1 {
+    color: rgb(226, 131, 43);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title {
+    font-size: 50pt;
+    color:rgb(226, 131, 43);
+    text-align-last: center;
+}
+.joke {
+    text-align-last: center;
+    font-size: 25pt;
+}
+.tbody {
+    font-family: fantasy;
+    font-size: 25 pt;
+}
+.cap {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45pt;
+    color: rgb(226, 131, 43);
+}
+.foot {
+    font-size: 30pt;
+    color:rgb(226, 131, 43);
+}
+/* .nav-item {
+    margin-left: 1in;
+    margin-right: 1in;
+    div.image { margin: 1em 0; }
+} */
